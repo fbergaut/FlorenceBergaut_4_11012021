@@ -342,7 +342,8 @@ a:hover {
   border: 0px;
 }
 
-.navbar-toggle:hover {
+.navbar-toggle:hover,
+.navbar-toggle:focus {
   background: transparent !important;
 }
 
@@ -653,7 +654,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  color: #000 !important;
 }
 
 .container {
