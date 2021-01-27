@@ -815,8 +815,9 @@ h4 {
   color: #ffffff !important;
 }
 
-.ltc-white:hover {
-  color: #cccccc !important;
+.ltc-white:hover,
+.ltc-white:focus {
+  color: #000 !important;
 }
 
 .ltc-atomic-tangerine {
