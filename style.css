@@ -855,8 +855,12 @@ h4 {
 
 .testimonial {
   font-size: 17.5px;
-  color: rgba(0, 0, 0, 0.65);
+  color: black;
   padding: 10px 20px;
+}
+
+.figcaption {
+  color: black;
 }
 
 @media (max-width: 1024px) {
